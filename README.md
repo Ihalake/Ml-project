@@ -11,6 +11,7 @@ The application aligns with Sustainable Development Goal 3: Good Health and Well
 - Modeling: Uses Random Forest and XGBoost classifiers, combined through stacking to enhance prediction performance.
 - Evaluation: Provides comprehensive metrics (accuracy, precision, recall, F1-score) to assess model effectiveness.
 - Model Saving: Saves trained models and preprocessing objects for deployment and future use.
-To run the project :
+  
+## To run the project :
 download zip file 
 open project in terminal and run 'python app.py' 
