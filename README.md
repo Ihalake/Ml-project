@@ -13,5 +13,5 @@ The application aligns with Sustainable Development Goal 3: Good Health and Well
 - Model Saving: Saves trained models and preprocessing objects for deployment and future use.
   
 ## To run the project :
--download zip file 
--open project in terminal and run 'python app.py' 
+-download zip file. 
+-open project in terminal and run 'python app.py'. 
