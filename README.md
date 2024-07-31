@@ -12,6 +12,6 @@ The application aligns with Sustainable Development Goal 3: Good Health and Well
 - Evaluation: Provides comprehensive metrics (accuracy, precision, recall, F1-score) to assess model effectiveness.
 - Model Saving: Saves trained models and preprocessing objects for deployment and future use.
   
-## To run the project :
--download zip file. 
--open project in terminal and run 'python app.py'. 
+## To run the project 
+- Download zip file. 
+- Open project in terminal and run 'python app.py'. 
